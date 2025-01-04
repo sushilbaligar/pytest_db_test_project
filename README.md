@@ -1,5 +1,5 @@
 # PyTest DB Test Project
-# Pytest project used to connect to local wordpress DB and validate DB data and validate APIs
+## Pytest project used to connect to local wordpress DB and validate DB data and validate APIs
 
 ## Prerequisites
 1. **Install Python**:
