@@ -5,44 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a137103-39ca-4d2e-9034-f55a1bfc83ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PyTestProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/configs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/configs/hosts_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/dao/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/dao/customerdao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/dao/productdao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/helpers/ProductsHelper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/helpers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/helpers/customer_helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/utilities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/utilities/credentialUtilities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/utilities/dbutility.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/utilities/genericUtilities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/src/utilities/requestsUtilities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/tests/customers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/tests/customers/test_create_customer_smoke.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/tests/customers/test_get_customers_smoke.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/tests/products/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/tests/products/test_create_products_smoke.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/tests/products/test_get_products_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/tests/products/test_get_products_smoke.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/tests/test_healthcheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
