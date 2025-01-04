@@ -59,7 +59,7 @@
    - Open the terminal in PyCharm (`Alt + F12`).
    - Navigate to the directory containing your tests:
      ```bash
-     cd tests
+     cd apitest
      ```
    - Run the tests using pytest:
      ```bash
