@@ -1,0 +1,5 @@
+
+SET WC_KEY=ck_dd7ebf17ef9e44ca15f3fc7b53dc1f74dc2cb7dc
+SET WC_SECRET=cs_405f8a4d5a4b7ced3a77f30875d6ba7ffcbc3a20
+SET DB_USER=root
+SET DB_PASSWORD=root
