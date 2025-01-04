@@ -7,6 +7,10 @@
 
 2. **Install PyCharm**:
    - Download and install PyCharm from [JetBrains](https://www.jetbrains.com/pycharm/download/).
+  
+3. **Install Local**:
+   - Download and install latest localwp software from [LocalWP](https://localwp.com/).
+   - Enable DB connection. Check its port/socket information as this needs to be updated in code to work properly.
 
 ## Setup Instructions
 1. **Clone the Repository**:
